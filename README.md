@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ogadiix/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ogadiix/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ogadiix/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
@@ -16,8 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ogadiix/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ogadiix/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ogadiix/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ogadiix/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
