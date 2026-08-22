@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/ogadiix/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0074-search-a-2d-matrix](https://github.com/ogadiix/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ogadiix/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1386-cinema-seat-allocation](https://github.com/ogadiix/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/ogadiix/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ogadiix/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ogadiix/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [2540-minimum-common-value](https://github.com/ogadiix/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
