@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/ogadiix/LeetCode-Solutions/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/ogadiix/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ogadiix/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ogadiix/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/ogadiix/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/ogadiix/LeetCode-Solutions/tree/master/1927-sum-game) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/ogadiix/LeetCode-Solutions/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
