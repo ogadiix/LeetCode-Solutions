@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/ogadiix/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/ogadiix/LeetCode-Solutions/tree/master/1927-sum-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/ogadiix/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ogadiix/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ogadiix/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Combinatorics
@@ -94,4 +96,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/ogadiix/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/ogadiix/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
+| [1927-sum-game](https://github.com/ogadiix/LeetCode-Solutions/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/ogadiix/LeetCode-Solutions/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
